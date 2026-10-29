@@ -307,7 +307,7 @@ The report contains four pages.
 
 Provides a national-level assessment of OSR performance, including revenue targets, actual collections, collection rates, revenue gaps, and revenue concentration.
 
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](images/execeutive_overview.png)
 
 ### Page 2: County Performance
 
@@ -327,7 +327,7 @@ Includes a county-level comparison and a detailed examination of Siaya's declini
 
 Identifies counties below the national collection benchmark, estimates hypothetical additional revenue, and highlights counties with the largest cumulative revenue gaps.
 
-![Revenue Opportunities](images/revenue_opportunities.png)
+![Revenue Opportunities](images/revenue_opprtunities.png)
 
 ---
 
